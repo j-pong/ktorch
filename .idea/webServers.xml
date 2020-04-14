@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8d75c661-fa94-44b9-9def-1a2ed42da0e2" name="litsub10-workstation" url="http://166.104.137.89">
+        <fileTransfer host="166.104.137.89" port="1007" rootFolder="/home/litsub10/Workspace" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="1007" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
